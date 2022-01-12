@@ -23,7 +23,7 @@ Insipired by https://github.com/liyasthomas/books
 - [x] Book search.
 
 
-## 📸 ScreenShots
+## 📸 Screenshots
 ![image](https://user-images.githubusercontent.com/75361268/149157571-41b1b0a7-6fbd-4ec1-ae4e-94a247103706.png)
 
 
