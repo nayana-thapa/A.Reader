@@ -4,7 +4,7 @@ Basically, this application is built for all the book lovers, making them easy t
 credentials and proceed. The [Google Books API](https://developers.google.com/books/docs/v1/using) was used to fetch books from Google Library. 
 Insipired by https://github.com/liyasthomas/books 
 
-## Download App
+## Download .apk file
 
 <a href="https://drive.google.com/file/d/1YaOBoNsbtVtc2DaAaoluQ1_PXueYqvag/view?usp=sharing"><img src="https://playerzon.com/asset/download.png" width="200"></a>
 
