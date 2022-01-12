@@ -1,16 +1,31 @@
-# a_reader
+# 📖📖 A.Reader App
 
-A new Flutter project.
+Basically, this application is built for all the book lovers, making them easy to search the book through our application. You just need to sign up and verify your
+credentials and proceed. The [Google Books API](https://developers.google.com/books/docs/v1/using) is use to fetch books from Google Library. 
+Insipired by https://github.com/liyasthomas/books 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 💻 Requirements
 
-A few resources to get you started if this is your first Flutter project:
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## ✨ Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Redirect you to Google Library implicitly.
+- [x] CRUD operations.
+- [x] Rate books.
+- [x] Book search.
+
+
+## 📸 ScreenShots
+![image](https://user-images.githubusercontent.com/75361268/149157571-41b1b0a7-6fbd-4ec1-ae4e-94a247103706.png)
+
+
+
+## 🤓 Author(s)
+
+**Mahalakshmi B N**
+**Nayana Thapa**
+
