@@ -1,7 +1,7 @@
 # 📖📖 A.Reader App
 
 Basically, this application is built for all the book lovers, making them easy to search the books through our application. You just need to sign up and verify your
-credentials and proceed. The [Google Books API](https://developers.google.com/books/docs/v1/using) was used to fetch books from Google Library. 
+credentials and proceed. The [Google Books API](https://developers.google.com/books/docs/v1/using) was used to fetch books. 
 Insipired by https://github.com/liyasthomas/books 
 
 ## Download .apk file
